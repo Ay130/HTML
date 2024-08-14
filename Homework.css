@@ -1,0 +1,17 @@
+.main_header{
+    text-align: right;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.makebold{
+    font-size: 20px;
+}
+
+.small{
+    font-size: small;
+}
+
+.indent{
+    font-size: small;
+    text-indent: 30px;
+}
